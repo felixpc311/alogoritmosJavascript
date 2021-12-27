@@ -1,0 +1,10 @@
+#myP {
+    color: red;
+    background-color: blue;
+    width: 100px;
+    height: 70px;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: baseline;
+    display: inline-block;
+}
